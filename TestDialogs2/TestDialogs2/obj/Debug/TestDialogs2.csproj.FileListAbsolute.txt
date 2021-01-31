@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\obj\Debug\TestDialogs2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\obj\Debug\TestDialogs2.Form1.resources
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\obj\Debug\TestDialogs2.Properties.Resources.resources
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\obj\Debug\TestDialogs2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\obj\Debug\TestDialogs2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\bin\Debug\TestDialogs2.exe.config
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\bin\Debug\TestDialogs2.exe
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\bin\Debug\TestDialogs2.pdb
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\obj\Debug\TestDialogs2.exe
+C:\Users\user\source\repos\TestDialogs2\TestDialogs2\obj\Debug\TestDialogs2.pdb
